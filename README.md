@@ -1,22 +1,28 @@
-# kanaks-bliss-and-bean
-A modern and responsive coffee shop website built using HTML and CSS, featuring a premium café-inspired design, interactive sections, and mobile-friendly layouts.
-# ☕ Bliss & Bean Cafe
+# ☕ Kanak's Bliss & Bean
 
-A modern and responsive coffee shop website designed to showcase a premium café experience through elegant visuals, smooth navigation, and a carefully crafted user interface.
+A modern and fully responsive coffee shop website built using HTML and CSS. The project showcases a premium café-inspired user interface, elegant layouts, smooth navigation, and mobile-friendly responsiveness.
 
-## 📖 Overview
+## 🌐 Live Demo
 
-Bliss & Bean is a fictional coffee shop website built using HTML and CSS. The project focuses on creating a visually appealing and responsive design that adapts seamlessly across desktops, tablets, and mobile devices.
+Visit the website here:
 
-The website features:
+https://kanak1507.github.io/kanaks-bliss-and-bean/
 
-* Hero landing section
-* Best Sellers showcase
-* Interactive Menu section
-* About Us section
-* Contact Information
+---
+
+## ✨ Features
+
+* Responsive design for desktop, tablet, and mobile devices
 * Smooth scrolling navigation
-* Responsive layouts using CSS Grid and Media Queries
+* Sticky navigation bar
+* Interactive menu cards with hover effects
+* Best Sellers showcase section
+* About Us section
+* Contact information section
+* Coffee-themed modern UI design
+* CSS Grid and Flexbox layouts
+
+---
 
 ## 🛠 Technologies Used
 
@@ -27,54 +33,81 @@ The website features:
 * Media Queries
 * Google Fonts
 
-## 🎨 Design Theme
+---
 
-The website uses a warm café-inspired color palette:
+## 📖 Project Overview
 
-* Dark Brown
-* Coffee Brown
-* Caramel
-* Cream White
+Kanak's Bliss & Bean is a fictional coffee shop website designed to provide visitors with an engaging café experience online. The website presents featured products, a complete menu, information about the café, and contact details through a clean and visually appealing interface.
 
-These colors create a cozy and premium coffee shop atmosphere.
+The design uses a warm coffee-inspired color palette consisting of dark brown, caramel, cream, and soft beige tones to create a cozy and welcoming atmosphere.
+
+---
 
 ## 📱 Responsive Design
 
-The website is fully responsive and optimized for:
+The website is optimized for:
 
 * Desktop Screens
 * Laptops
 * Tablets
-* Mobile Devices
+* Mobile Phones
 
-Media queries ensure a smooth viewing experience across various screen sizes.
+Media queries ensure a seamless experience across different screen sizes.
+
+---
+
+## 🎨 Design Highlights
+
+* Premium coffee shop aesthetic
+* Consistent color palette
+* Smooth visual hierarchy
+* Accessible navigation
+* Mobile-first responsive improvements
+* Modern card-based layouts
+
+---
 
 ## 📂 Project Structure
 
 ```text
+kanaks-bliss-and-bean/
+│
 ├── index.html
 ├── style.css
-└── Images/
-    ├── bgcoffee.jpg
-    ├── caramelfrappe.jpg
-    ├── latte.jpg
-    ├── cake.jpg
-    └── ...
+├── Images/
+│   ├── bgcoffee.jpg
+│   ├── caramelfrappe.jpg
+│   ├── latte.jpg
+│   ├── cake.jpg
+│   └── ...
+│
+└── README.md
 ```
 
-## 🚀 Features
+---
 
-* Sticky navigation bar
-* Smooth scrolling
-* Hover animations
-* Responsive menu cards
-* Coffee-themed visual design
-* Organized content sections
+## 🚀 What I Learned
+
+Through this project, I strengthened my understanding of:
+
+* Semantic HTML structure
+* CSS styling and layouts
+* Responsive web design
+* CSS Grid and Flexbox
+* Media Queries
+* UI/UX design principles
+* GitHub Pages deployment
+
+---
 
 ## 👨‍💻 Author
 
-Designed and developed by Kanak.
+Kanak
+
+First-Year BCA Student | Frontend Development Enthusiast
+
+---
 
 ## 📄 License
 
-This project is created for educational and portfolio purposes.
+This project was created for educational and portfolio purposes.
